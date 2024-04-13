@@ -1,4 +1,3 @@
-** start of undefined **
 
 <!DOCTYPE html>
   <html lang="en">
@@ -231,10 +230,6 @@ As you might expect, you can assign list values to variables:
 </body>
 </html>
 
-** end of undefined **
-
-** start of undefined **
-
 #navbar {
   position: static;
 }
@@ -243,6 +238,3 @@ As you might expect, you can assign list values to variables:
     width: 300px;
   }
 }
-
-** end of undefined **
-
